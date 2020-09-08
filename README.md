@@ -4,7 +4,9 @@ Accelerating my search for a used car via Tableau and an extensive Craigslist da
 How to run the visualizations?
 
 Download the dataset and the workbook in a common folder
-Run the work book in Tableau. Import the dataset if prompted.
+Extract the dataset
+Run the workbook in Tableau
+
 
 
 
